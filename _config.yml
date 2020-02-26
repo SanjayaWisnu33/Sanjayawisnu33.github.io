@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr.Clay "
+  name             : "Sans.Jaya "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "People"
-  location         : "Somewhere in bandung"
+  bio              : "Manusia"
+  location         : "Somewhere in Bandung"
   email            : "sanjayawisnu16@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:sanjayawisnu16@gmail.com
+      url: mailto: sanjayawisnu16@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
