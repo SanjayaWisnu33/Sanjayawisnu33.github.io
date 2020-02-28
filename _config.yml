@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -113,7 +113,7 @@ author:
   location         : "Somewhere in Bandung"
   email            : "sanjayawisnu16@gmail.com"
   links:
-    - label: "Email"
+    - label: "sanjayawisnu16@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: https://mail.google.com/mail/u/0/#inbox
     - label: "Website"
@@ -128,7 +128,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
+    - label: "sanjayawisnu33"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/sanjayawisnu33/
 
