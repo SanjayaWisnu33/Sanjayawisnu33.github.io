@@ -4,22 +4,23 @@
         <title>Scraping</title>
             <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
             <script>
-                $(function() {
-                    $.get('headline.txt', function(obj) {
-                        $('#headline').html(obj);
-                        
-                        //var judul = obj.split("\n");
-                        //str = "<table border= '1'><tr><td>No</td><td>Judul Head</td></tr>";
-                        $.each(judul, function(n,judul) {
-                        //   str+="<tr><td>"+(n+1)+"</td>";
-                        //   str+="<td>"+judul+"</td></tr>";
+                $(function(){
+                    $.get('scrap.json',function(obj){
+                        var judul = obj.split("\n");
+                        str = "<table border='1'><tr><td>No</td><td>Judul Headline</td></tr>";
+                        $.each(judul, function(n,judul){
+                            str+="<tr><td>"+(n+1)+"</td>";
+                            str+="<td>"+judul+"</td>";
                         });
+                        str ="</table>";
+                        $('#scrap').html(str);
                     });
-                    alert(obj)
+                    print(obj)
                 });
             </script>
     </head>
     <body>
+        <h1>List Judul Headline Republika</h1>
         <div id="headline">
         </div>
     </body>
