@@ -6,7 +6,6 @@ permalink : /scrap/
 
 <script src="https://code.jquery.com/jquery-3.3.1"></script>
 <script>
-    alert('HEllo World')
     $(function() {
         $.get('D:\CODE\PROYEK\Py\headline.txt', function(obj) {
             var judul = obj.split("\n");
@@ -18,5 +17,4 @@ permalink : /scrap/
         });
         $('#headline').html(str);
     });
-});
 </script>    
