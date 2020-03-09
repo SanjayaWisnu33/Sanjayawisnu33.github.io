@@ -1,6 +1,6 @@
 ---
 title : "Scraping"
-permalink : "scrap"
+permalink : /scrap/
 ---
 <script src="https://code.jquery.com/jquery-3.3.1"></script>
 <script>
