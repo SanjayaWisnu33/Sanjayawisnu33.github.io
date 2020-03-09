@@ -15,6 +15,7 @@ permalink : /scrap/
                 str+="<td>"+judul+"</td>";
             });
         });
+        alert(str)
         $('#headline').html(str);
     });
 </script>    
