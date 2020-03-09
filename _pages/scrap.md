@@ -2,6 +2,7 @@
 title : "Scraping"
 permalink : /scrap/
 ---
+
 <h1>SCRAPING</h2>
 
 <script src="https://code.jquery.com/jquery-3.3.1"></script>
@@ -18,4 +19,5 @@ permalink : /scrap/
         alert(str)
         $('#headline').html(str);
     });
-</script>    
+</script>
+  
