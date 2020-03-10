@@ -1,4 +1,4 @@
 ---
 title : "Scraping"
-permalink : /scrap/
+permalink : scrap.html
 ---
