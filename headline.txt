@@ -1,35 +1,26 @@
-Data Headline
-======================
-Identitas Dikenali, Pasien 1 dan 2 Corona Alami Depresi
-Menkeu Jelaskan Dampak Penurunan Harga Minyak ke Ekonomi
-Harga Minyak Dunia Anjlok, Peluang Impor LNG Makin Terbuka
-Ririn Ekawati Diberi Setengah Pil Narkoba oleh Asistennya
-Indonesia Belum Banyak Diuntungkan Pengalihan Manufaktur
-
-Data Judul
-======================
-Sri Mulyani Pantau Dampak Penurunan Harga Minyak Terhadap AP
-Empat Manfaat Minum Kopi yang Jarang Diketahui
-Menkes Bantah Stok Obat ARV Menipis
-Dua WNI di Singapura Positif Terinfeksi Virus Corona
-Gubernur BI: Bayar Makan Cukup Sentuh Handphone
-1.572 Warga di Tembagapura Dievakuasi Akibat Separatis Papua
-Pemerintah Tambah Empat Hari Libur di 2020, Cek Tanggalnya
-PM Jepang Didesak Nyatakan Status Darurat Wabah Corona
-Identitas Dikenali, Pasien 1 dan 2 Corona Alami Depresi
-Afghanistan Tunda Pelantikan Presiden
- Selama 2019, Ada Ratusan Kasus Kekerasan Anak di Sleman
-Identitas Dikenali, Pasien 1 dan 2 Corona Alami Depresi
-Pemkab Tangerang Semprot Disinfektan di Tempat Publik
-NF Mulai Jalani Observasi Kejiwaan 
-Jubir Pemerintah Ungkap Kondisi 6 Pasien Virus Corona
-Wapres Berpesan Dai Sampaikan Ceramah Damai
-Pegawai Kemenpora Agar Dukung  Kelancaran LHKPN
-Partai Masyumi Reborn, Sekjen PBB: Biasa Saja
-Kementerian Tunggu DPR Tetapkan Skema Pembayaran Jiwasraya
-MU Bantu Liverpool Bisa Segera Raih Gelar Liga Primer
-Posko Virus Corona Jakarta Dihubungi 3.580 Orang
-Ririn Ekawati Diperiksa Lagi Sebagai Saksi
-Dua RSUD Lagi Dipersiapkan Tangani Corona di Jakarta
-Dikes Jatim Konfirmasi Kelangkaan ARV Jenis Tertentu
-Klarifikasi KPK Soal Hilangnya Nilai Religiusitas 
+Scrapping using Json 
+ Kategori : "Nusantara" Judul : "KSOP Perketat Pengawasan Kapal Asing di Perairan Tarakan" Waktu : "35 menit yang lalu"
+ Kategori : "Sepak Bola" Judul : "Guendogan Geram Aksi 'Drama' Bruno Fernandes" Waktu : "35 menit yang lalu"
+ Kategori : "Gaya Hidup" Judul : "Jamu Tradisional Bisa Tangkal Virus Corona?" Waktu : "35 menit yang lalu"
+ Kategori : "Nasional" Judul : "Luhut Sanggah Ahok Calon Kuat Kepala Otoritas Ibu Kota" Waktu : "35 menit yang lalu"
+ Kategori : "Nasional" Judul : "Dubes: Warga Jepang Bukan Sumber Penyebaran Corona" Waktu : "35 menit yang lalu"
+ Kategori : "Trendtek" Judul : "Bengkel Gading Kuno Terbesar di Dunia Ditemukan di Pakistan" Waktu : "35 menit yang lalu"
+ Kategori : "Konsultasi" Judul : "Cegah Penurunan IHSG, BEI Ubah Aturan Auto Rejection " Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : "Siswi Pangkep Rekayasa Cerita Penculikannya" Waktu : "35 menit yang lalu"
+ Kategori : "Sepak Bola" Judul : "Pelatih Badak Lampung Minta Dukungan Suporter" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : "Pria Lompat dari Thamrin Plaza di Medan Meninggal" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : "6 Tersangka Jaringan Narkotika di Sumut Dijerat TPPU" Waktu : "35 menit yang lalu"
+ Kategori : "Sepak Bola" Judul : "Badak Lampung Bidik Kemenangan di Tiap Laga Liga 2" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : "RSUP Persahabatan Tangani Khusus Dua Pasien Positif Corona" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : "Pria yang Loncat dari Lantai 7 Plaza Medan Meninggal" Waktu : "35 menit yang lalu"
+ Kategori : "Khazanah" Judul : "Tradisi Khutbah dalam Peradaban Arab Klasik Sebelum Islam" Waktu : "35 menit yang lalu"
+ Kategori : "Sepak Bola" Judul : "JaVale McGee Sebut Lakers Tim Terbaik Dunia " Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : "Bandara Jambi Siapkan Fasilitas Pengecekan Suhu Mandiri" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : "Pemkot Jambi Bentuk Satgas Penanggulangan Corona" Waktu : "35 menit yang lalu"
+ Kategori : "Sepak Bola" Judul : "James Murray Terkejut Indian Wells Dibatalkan karena Corona" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : " TNI tak Gentar Hadapi Ancaman KKB" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : " Wali Kota Banda Aceh Hidupkan Taman Wisata Ulee Lheue" Waktu : "35 menit yang lalu"
+ Kategori : "Khazanah" Judul : "Melacak Akar Ilmu Ceramah dalam Peradaban Yunani dan Romawi " Waktu : "35 menit yang lalu"
+ Kategori : "Sepak Bola" Judul : "Volcano Run Sukses Tingkatkan Peminat" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : "Persoalan Harga Garam Rakyat Butuh Pendekatan Regional" Waktu : "35 menit yang lalu"
+ Kategori : "Nusantara" Judul : " Papua Barat Siapkan RP 11 M untuk UN SMA" Waktu : "35 menit yang lalu"
