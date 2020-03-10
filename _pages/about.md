@@ -1,6 +1,6 @@
 ---
-title : "Scraping"
-permalink : /scrap/
+title : "About"
+permalink : /about/
 ---
 
 <h1>Sanjaya Wisnu Ramadhan</h1>
