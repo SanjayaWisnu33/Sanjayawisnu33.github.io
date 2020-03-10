@@ -1,26 +1,127 @@
-Scrapping using Json 
- Kategori : "Nusantara" Judul : "KSOP Perketat Pengawasan Kapal Asing di Perairan Tarakan" Waktu : "35 menit yang lalu"
- Kategori : "Sepak Bola" Judul : "Guendogan Geram Aksi 'Drama' Bruno Fernandes" Waktu : "35 menit yang lalu"
- Kategori : "Gaya Hidup" Judul : "Jamu Tradisional Bisa Tangkal Virus Corona?" Waktu : "35 menit yang lalu"
- Kategori : "Nasional" Judul : "Luhut Sanggah Ahok Calon Kuat Kepala Otoritas Ibu Kota" Waktu : "35 menit yang lalu"
- Kategori : "Nasional" Judul : "Dubes: Warga Jepang Bukan Sumber Penyebaran Corona" Waktu : "35 menit yang lalu"
- Kategori : "Trendtek" Judul : "Bengkel Gading Kuno Terbesar di Dunia Ditemukan di Pakistan" Waktu : "35 menit yang lalu"
- Kategori : "Konsultasi" Judul : "Cegah Penurunan IHSG, BEI Ubah Aturan Auto Rejection " Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : "Siswi Pangkep Rekayasa Cerita Penculikannya" Waktu : "35 menit yang lalu"
- Kategori : "Sepak Bola" Judul : "Pelatih Badak Lampung Minta Dukungan Suporter" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : "Pria Lompat dari Thamrin Plaza di Medan Meninggal" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : "6 Tersangka Jaringan Narkotika di Sumut Dijerat TPPU" Waktu : "35 menit yang lalu"
- Kategori : "Sepak Bola" Judul : "Badak Lampung Bidik Kemenangan di Tiap Laga Liga 2" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : "RSUP Persahabatan Tangani Khusus Dua Pasien Positif Corona" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : "Pria yang Loncat dari Lantai 7 Plaza Medan Meninggal" Waktu : "35 menit yang lalu"
- Kategori : "Khazanah" Judul : "Tradisi Khutbah dalam Peradaban Arab Klasik Sebelum Islam" Waktu : "35 menit yang lalu"
- Kategori : "Sepak Bola" Judul : "JaVale McGee Sebut Lakers Tim Terbaik Dunia " Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : "Bandara Jambi Siapkan Fasilitas Pengecekan Suhu Mandiri" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : "Pemkot Jambi Bentuk Satgas Penanggulangan Corona" Waktu : "35 menit yang lalu"
- Kategori : "Sepak Bola" Judul : "James Murray Terkejut Indian Wells Dibatalkan karena Corona" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : " TNI tak Gentar Hadapi Ancaman KKB" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : " Wali Kota Banda Aceh Hidupkan Taman Wisata Ulee Lheue" Waktu : "35 menit yang lalu"
- Kategori : "Khazanah" Judul : "Melacak Akar Ilmu Ceramah dalam Peradaban Yunani dan Romawi " Waktu : "35 menit yang lalu"
- Kategori : "Sepak Bola" Judul : "Volcano Run Sukses Tingkatkan Peminat" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : "Persoalan Harga Garam Rakyat Butuh Pendekatan Regional" Waktu : "35 menit yang lalu"
- Kategori : "Nusantara" Judul : " Papua Barat Siapkan RP 11 M untuk UN SMA" Waktu : "35 menit yang lalu"
+[
+    {
+        "Kategori": "\"Nasional\"",
+        "Judul": "\"PAN Tetap Ingin Pelaksanaan Pileg dan Pilpres Dipisah\"",
+        "Waktu": "\"39 detik yang lalu\""
+    },
+    {
+        "Kategori": "\"Ekonomi\"",
+        "Judul": "\"Pembangunan Bandara Kediri Akan Dimulai April 2020\"",
+        "Waktu": "\"41 detik yang lalu\""
+    },
+    {
+        "Kategori": "\"Internasional\"",
+        "Judul": "\"Berani Bohong Soal Kesehatan, Saudi Akan Denda Rp 1,9 Miliar\"",
+        "Waktu": "\"1 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nusantara\"",
+        "Judul": "\"Tersangka Pembunuhan Hakim Medan Segera Disidang\"",
+        "Waktu": "\"1 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nusantara\"",
+        "Judul": "\"Jabar Tunggu Arahan Pemerintah Pusat Soal Iuran BPJS\"",
+        "Waktu": "\"2 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Ekonomi\"",
+        "Judul": "\"BNI Syariah Siapkan Teknis Haji Cashless\"",
+        "Waktu": "\"3 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Khazanah\"",
+        "Judul": "\"MUI Imbau Masyarakat yang Terjangkit Corona tidak ke Masjid\"",
+        "Waktu": "\"4 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"IHRAM.CO.ID\"",
+        "Judul": "\"Haji, Ihram, dan Kesederhanaan \"",
+        "Waktu": "\"5 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nusantara\"",
+        "Judul": "\"Food Station Tjipinang Pastikan Stok Beras di Jakarta Aman\"",
+        "Waktu": "\"6 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Senggang\"",
+        "Judul": "\"Penyanyi Cilik Kila Putri Ketagihan Main Film\"",
+        "Waktu": "\"7 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nusantara\"",
+        "Judul": "\"Kota Bogor akan Tambah Dua Kecamatan Baru\"",
+        "Waktu": "\"7 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nusantara\"",
+        "Judul": "\"Emil Minta Imam Masjid Bacakan Qunut Nazilah\"",
+        "Waktu": "\"7 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Sepak Bola\"",
+        "Judul": "\"Dampak Virus Corona, Turnamen Tenis Meja Japan Open Ditunda\"",
+        "Waktu": "\"8 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nusantara\"",
+        "Judul": "\"Cegah Corona, Penumpang Kapal Asing di Labuan Bajo Diperiksa\"",
+        "Waktu": "\"8 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nasional\"",
+        "Judul": "\"Pemerintah Siapkan Stok APD Petugas Penanganan Covid-19\"",
+        "Waktu": "\"11 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Internasional\"",
+        "Judul": "\"Israel Berlakukan Karantina 14 Hari terhadap Turis\"",
+        "Waktu": "\"14 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Beacukai\"",
+        "Judul": "\"Bea Cukai Dukung Ekspor Langsung dari Sulawesi Utara \"",
+        "Waktu": "\"16 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Inpicture\"",
+        "Judul": "\"Handsanitizer Alternatif Buatan UGM \"",
+        "Waktu": "\"17 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Pendidikan\"",
+        "Judul": "\"Dosen UGM Buat Hand Sanitizer Bebas Alkohol dari Daun Sirih \"",
+        "Waktu": "\"18 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Ekonomi\"",
+        "Judul": "\"Permen Energi Baru Terbarukan Direvisi, Ini Poin yang Diubah\"",
+        "Waktu": "\"19 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Internasional\"",
+        "Judul": "\"Jumlah Infeksi Virus Corona di Palestina Bertambah\"",
+        "Waktu": "\"19 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nasional\"",
+        "Judul": "\"Soal Ambang Batas Parlemen, Berkarya: Hapus Jadi 0 Persen\"",
+        "Waktu": "\"20 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Internasional\"",
+        "Judul": "\"Singapura Mulai Kenakan Biaya Perawatan Corona untuk WNA \"",
+        "Waktu": "\"21 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Nusantara\"",
+        "Judul": "\"Depok Dukung Pelestarian Belimbing Dewa\"",
+        "Waktu": "\"21 menit yang lalu\""
+    },
+    {
+        "Kategori": "\"Video\"",
+        "Judul": "\"Dompet Dhuafa Luncurkan Pembayaran ZIS Digital\"",
+        "Waktu": "\"22 menit yang lalu\""
+    }
+]
