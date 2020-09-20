@@ -34,6 +34,8 @@ Sistem Lebih baik dan matang | Pembengkakan Biaya
 
 Kelebihan | Kekurangan
 ------------ | -------------
+
+
 Fleksibel | Hanya bisa digunakan sekali dalam suatu project
 Mudahnya proses penambahan Method dan Tool | Project Oriented
 Bisa digunakan untuk project Tailoring | Beberapa aktivitas menjadi terlalu abstarak
