@@ -26,11 +26,12 @@ Proses pada CDM menggambarkan aktivitas di dua dimensi, yaitu dimensi sistem dan
 Kelebihan | Kekurangan
 ------------ | -------------
 Perencanaan lebih matang | Perubahan besar-besaran memakan waktu yang lama
-Sistem Lebih baik dan matang | Biaya membengkak
+Sistem Lebih baik dan matang | Pembengkakan Biaya
 
 ## Kelebihan dan Kekurangan V Model, RAD Model, dan Spiral Model
 
 # V Model
+
 Kelebihan | Kekurangan
 ------------ | -------------
 Fleksibel | Hanya bisa digunakan sekali dalam suatu project
@@ -39,6 +40,7 @@ Bisa digunakan untuk project Tailoring | Beberapa aktivitas menjadi terlalu abst
 User berpartisipasi dalam change board | Ketidakjelasan aktivitas
 
 # RAD Model
+
 Kelebihan | Kekurangan
 ------------ | -------------
 Lebih Efektif dari Sequential model | Tidak cocok untuk sistem yang mempunyai resiko teknik yang tinggi
@@ -46,6 +48,7 @@ Waktu lebih singkat dan efisien | Membutuhkan tenaga kerja yang banyak untuk men
 Memiliki kemampuan untuk menggunakan kembali komponen yang ada | Harus adanya kontrak baru jika ada perubahan di tengah
 
 # Spiral Model
+
 Kelebihan | Kekurangan
 ------------ | -------------
 Dapat disesuaikan secara terus menerus | Resiko planning cukup besar
