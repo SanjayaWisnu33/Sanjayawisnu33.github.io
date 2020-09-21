@@ -28,10 +28,7 @@ Kelebihan | Kekurangan
 Perencanaan lebih matang | Perubahan besar-besaran memakan waktu yang lama
 Sistem Lebih baik dan matang | Pembengkakan Biaya
 
-#
-#
-#
-#
+![Code](/assets/images/SDLC_PRPL/Coding.jpg)
 
 # Kelebihan dan Kekurangan V Model, RAD Model, dan Spiral Model
 
@@ -62,10 +59,7 @@ Mudahnya Pengembangan | Alur proses kompleks
 Produksi lebih cepat | Memakan waktu lama
 Manajemen dan analisis resiko lebih cepat dan mudah | Penyelarasan dalam jadwal pengembangan dan anggaran
 
-#
-#
-#
-#
+![ai](/assets/images/SDLC_PRPL/AI.jpg)
 
 # Specialized Process Model, Agile Method, dan Scrum
 
