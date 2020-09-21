@@ -27,10 +27,10 @@ Kelebihan | Kekurangan
 ------------ | -------------
 Perencanaan lebih matang | Perubahan besar-besaran memakan waktu yang lama
 Sistem Lebih baik dan matang | Pembengkakan Biaya
-
-
-
-
+#
+#
+#
+#
 # Kelebihan dan Kekurangan V Model, RAD Model, dan Spiral Model
 
 ## V Model
@@ -59,10 +59,10 @@ Cocok untuk pengembangan skala besar | Sulit diimplementasikan dalam projek keci
 Mudahnya Pengembangan | Alur proses kompleks
 Produksi lebih cepat | Memakan waktu lama
 Manajemen dan analisis resiko lebih cepat dan mudah | Penyelarasan dalam jadwal pengembangan dan anggaran
-
-
-
-
+#
+#
+#
+#
 # Specialized Process Model, Agile Method, dan Scrum
 
 ## Specialized Process Model
